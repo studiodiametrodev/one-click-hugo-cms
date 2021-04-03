@@ -4,8 +4,7 @@
 
   {{ $stylesheet := .Site.Data.webpack.main }}
   {{ with $stylesheet.css }}
-    <link rel="preload" href="{{ relURL . }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <noscript><link rel="stylesheet" href="{{ relURL . }}"></noscript>
+    <link rel="stylesheet" href="{{ relURL . }}">
   {{ end }}
 
 	<meta charset="utf-8">
