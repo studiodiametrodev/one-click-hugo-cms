@@ -5,14 +5,14 @@ description: Testo dentro il paragrafo.
 image: img/20161202_093312.jpg
 link: /values/
 ---
-Testo **fuori** dal paragrafo.
+<p>Testo **fuori** dal paragrafo.</p>
 
-<p>Testo **dentro** il paragrafo.</p>
+<p>Testo <strong>dentro</strong> il paragrafo.</p>
 
 Lista non ordinata:
 
 <ul>
-<li>voce **1** in elenco</li>
-<li>voce **2** in elenco</li>
-<li>voce **3** in elenco</li>
+<li>voce 1 in elenco</li>
+<li>voce 2 in elenco</li>
+<li>voce 3 in elenco</li>
 </ul>
