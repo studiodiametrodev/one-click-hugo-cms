@@ -1,6 +1,6 @@
 ---
 title: test mio
-date: 2021-04-01T16:04:06.634Z
+date: 2021-04-07T16:44:56.334Z
 description: Testo dentro il paragrafo.
 image: img/20161202_093312.jpg
 link: /values/
