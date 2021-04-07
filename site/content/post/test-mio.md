@@ -7,7 +7,6 @@ link: /values/
 ---
 Testo **fuori** dal paragrafo.
 
-
 <p>Testo **dentro** il paragrafo.</p>
 
 Lista non ordinata:
