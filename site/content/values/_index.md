@@ -2,12 +2,13 @@
 title: Values
 image: /img/about-jumbotron.jpg
 values:
-  - heading: Shade-grown caffè
+  - heading: Caffè all'ombra
     text: >
-      Coffee is a small tree or shrub that grows in the forest understory in its
-      wild form, and traditionally was grown commercially under other trees that
-      provided shade. The forest-like structure of shade coffee farms provides
-      habitat for a great number of migratory and resident species.
+      Il caffè è un piccolo albero o arbusto che cresce nel sottobosco della
+      foresta nella sua forma selvaggia e tradizionalmente veniva coltivato
+      commercialmente sotto altri alberi che fornivano ombra. La struttura
+      simile a una foresta delle piantagioni di caffè all'ombra fornisce
+      l'habitat per un gran numero di specie migratrici e residenti. 
     imageUrl: /img/about-shade-grown.jpg
   - heading: Single origin
     text: >
